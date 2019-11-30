@@ -2,7 +2,6 @@
 
 anyenv init
 anyenv install --init
-exec $SHELL -l
 anyenv install jenv
 anyenv install pyenv
 anyenv install rbenv
