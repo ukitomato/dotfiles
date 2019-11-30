@@ -16,6 +16,7 @@ dotfiles_download() {
   fi
 
   printf "Downloading dotfiles..."
+  xcode-select --install
   git clone --recursive "$DOTFILES_GITHUB" "$DOTPATH"
   printf "Downloaded"
 }
