@@ -1,3 +1,3 @@
-#!/bin/sh
+#!/bin/zsh
 
-brew install git
+brew bundle --file ~/.dotfiles/etc/init/Brewfile
