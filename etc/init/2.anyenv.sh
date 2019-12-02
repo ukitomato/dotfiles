@@ -10,6 +10,7 @@ anyenv install nodenv
 exec $SHELL -l
 
 jenv enable-plugin export
+exec $SHELL -l
+
 jenv add $(/usr/libexec/java_home -v 1.8)
 jenv add $(/usr/libexec/java_home -v 11)
-
