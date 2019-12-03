@@ -6,7 +6,7 @@ This is my dotfiles.
 ## Installation
 ```
 xcode-select --install
-bash -c "$(curl L https://raw.githubusercontent.com/ukitomato/dotfiles/master/etc/install)"
+zsh -c "$(curl L https://raw.githubusercontent.com/ukitomato/dotfiles/master/etc/install)"
 ```
 
 ## Commands
