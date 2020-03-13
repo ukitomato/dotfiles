@@ -1,42 +1,73 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
+tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
-brew "git"
-brew "mercurial"
-brew "bash"
 brew "anyenv"
+brew "bash"
+brew "ffmpeg"
+brew "fish"
+brew "git"
+brew "mas"
+brew "mercurial"
 brew "zsh"
-cask "corretto8"
-cask "java11"
 cask "1password"
+cask "1password-cli"
 cask "alfred"
+cask "appcleaner"
 cask "arduino"
 cask "atom"
 cask "bartender"
+cask "bettertouchtool"
+cask "corretto8"
 cask "cyberduck"
 cask "docker"
 cask "evernote"
 cask "firefox"
+cask "flotato"
+cask "font-fira-code"
 cask "github"
 cask "gitkraken"
+cask "grammarly"
 cask "google-backup-and-sync"
 cask "google-chrome"
 cask "google-drive-file-stream"
+cask "google-japanese-ime"
 cask "hazeover"
 cask "iterm2"
+cask "java11"
 cask "jetbrains-toolbox"
 cask "kitematic"
+cask "mactex"
 cask "mendeley-desktop"
+cask "mono-mdk"
 cask "processing"
-cask "skim"
 cask "slack"
 cask "sourcetree"
 cask "sublime-text"
-cask "use-engine"
-cask "visual-studio-code"
+cask "skim"
 cask "tableau"
 cask "tableau-prep"
-cask "vmware-fusion"
+cask "tower"
 cask "unity-hub"
+cask "use-engine"
 cask "visual-studio"
+cask "visual-studio-code"
+cask "vlc"
+cask "vmware-fusion"
+cask "zotero"
+mas "LINE", id: 539883307
+mas "Todoist", id: 585829637
+mas "Keynote", id: 409183694
+mas "Pages", id: 409201541
+mas "Numbers", id:409203825
+mas "MachineProfile", id: 530194517
+mas "BetterSnapTool", id: 417375580
+mas "Amphetamine", id: 937984704
+mas "Kindle", id: 405399194
+mas "EdgeView 2", id: 1206246482
+mas "Airmail 4", id: 918858936
+mas "The Unarchiver", id: 425424353
+mas "iMovie", id: 408981434
+mas "GarageBand", id: 682658836
+mas "Xcode", id: 497799835
