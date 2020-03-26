@@ -1,7 +1,7 @@
 #!/bin/zsh
 cd && \
-mkdir "EDevelopments"
-cd EDevelopments && \
+mkdir "Dropbox/Developments"
+cd Dropbox/Developments && \
 mkdir Dockers IPLAB LaTeX Lectures StudioProjects OSS Web Works Utilities && \
 cd Dockers && \
 git clone git@github.com:ukitomato/docker-google-cloud-sdk.git && \
